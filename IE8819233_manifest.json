@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://rosetta.slv.vic.gov.au:443/delivery/iiif/presentation/2.1/IE8819233/manifest",
+  "@id": "https://raw.githubusercontent.com/wragge/test-manifests/refs/heads/main/IE8819233_manifest.json",
   "@type": "sc:Manifest",
   "label": "Index to City of Melbourne detail fire survey",
   "description": "",
