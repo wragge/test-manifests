@@ -1,0 +1,599 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/wragge/test-manifests/refs/heads/main/IE8819084_manifest.json",
+  "@type": "sc:Manifest",
+  "label": "City of South Melbourne and section of Port Melbourne detail-fire-survey",
+  "description": "",
+  "attribution": "This work is out of copyright",
+  "metadata": [
+    {
+      "label": "Author",
+      "value": "Mahlstedt's (Vic.) Pty. Ltd."
+    }
+  ],
+  "logo": "https://rosetta.slv.vic.gov.au/delivery/images/1328468835/logo-main.png",
+  "license": "https://rosetta.slv.vic.gov.au/delivery/general/termsofuse.jsp?dps_dvs=1758677045754~769",
+  "thumbnail": "https://rosetta.slv.vic.gov.au/delivery/DeliveryManagerServlet?dps_pid=IE8819084&dps_func=thumbnail",
+  "sequences": [
+    {
+      "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/sequence/REP21662236 REP15808241",
+      "@type": "sc:Sequence",
+      "label": "Table of Contents Table of Contents",
+      "viewingDirection": "left-to-right",
+      "viewingHint": "individuals",
+      "canvases": [
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/canvas/FL21662270",
+          "@type": "sc:Canvas",
+          "label": "Index",
+          "thumbnail": "https://rosetta.slv.vic.gov.au/delivery/DeliveryManagerServlet?dps_pid=FL21662270&dps_func=thumbnail",
+          "height": 5203,
+          "width": 7000,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/annotation/FL21662270",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/res/FL21662270.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE8819084:FL21662270.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 5203,
+                "width": 7000
+              },
+              "on": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/canvas/FL21662270"
+            }
+          ]
+        },
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/canvas/FL21662258",
+          "@type": "sc:Canvas",
+          "label": "Key",
+          "thumbnail": "https://rosetta.slv.vic.gov.au/delivery/DeliveryManagerServlet?dps_pid=FL21662258&dps_func=thumbnail",
+          "height": 5351,
+          "width": 7000,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/annotation/FL21662258",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/res/FL21662258.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE8819084:FL21662258.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 5351,
+                "width": 7000
+              },
+              "on": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/canvas/FL21662258"
+            }
+          ]
+        },
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/canvas/FL21662269",
+          "@type": "sc:Canvas",
+          "label": "Map 1",
+          "thumbnail": "https://rosetta.slv.vic.gov.au/delivery/DeliveryManagerServlet?dps_pid=FL21662269&dps_func=thumbnail",
+          "height": 5136,
+          "width": 7000,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/annotation/FL21662269",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/res/FL21662269.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE8819084:FL21662269.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 5136,
+                "width": 7000
+              },
+              "on": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/canvas/FL21662269"
+            }
+          ]
+        },
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/canvas/FL21662255",
+          "@type": "sc:Canvas",
+          "label": "Map 2",
+          "thumbnail": "https://rosetta.slv.vic.gov.au/delivery/DeliveryManagerServlet?dps_pid=FL21662255&dps_func=thumbnail",
+          "height": 5342,
+          "width": 7000,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/annotation/FL21662255",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/res/FL21662255.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE8819084:FL21662255.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 5342,
+                "width": 7000
+              },
+              "on": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/canvas/FL21662255"
+            }
+          ]
+        },
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/canvas/FL21662263",
+          "@type": "sc:Canvas",
+          "label": "Map 3",
+          "thumbnail": "https://rosetta.slv.vic.gov.au/delivery/DeliveryManagerServlet?dps_pid=FL21662263&dps_func=thumbnail",
+          "height": 5213,
+          "width": 7000,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/annotation/FL21662263",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/res/FL21662263.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE8819084:FL21662263.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 5213,
+                "width": 7000
+              },
+              "on": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/canvas/FL21662263"
+            }
+          ]
+        },
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/canvas/FL21662275",
+          "@type": "sc:Canvas",
+          "label": "Map 4",
+          "thumbnail": "https://rosetta.slv.vic.gov.au/delivery/DeliveryManagerServlet?dps_pid=FL21662275&dps_func=thumbnail",
+          "height": 5232,
+          "width": 7000,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/annotation/FL21662275",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/res/FL21662275.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE8819084:FL21662275.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 5232,
+                "width": 7000
+              },
+              "on": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/canvas/FL21662275"
+            }
+          ]
+        },
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/canvas/FL21662268",
+          "@type": "sc:Canvas",
+          "label": "Map 5",
+          "thumbnail": "https://rosetta.slv.vic.gov.au/delivery/DeliveryManagerServlet?dps_pid=FL21662268&dps_func=thumbnail",
+          "height": 5229,
+          "width": 7000,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/annotation/FL21662268",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/res/FL21662268.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE8819084:FL21662268.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 5229,
+                "width": 7000
+              },
+              "on": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/canvas/FL21662268"
+            }
+          ]
+        },
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/canvas/FL21662239",
+          "@type": "sc:Canvas",
+          "label": "Map 6",
+          "thumbnail": "https://rosetta.slv.vic.gov.au/delivery/DeliveryManagerServlet?dps_pid=FL21662239&dps_func=thumbnail",
+          "height": 5245,
+          "width": 7000,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/annotation/FL21662239",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/res/FL21662239.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE8819084:FL21662239.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 5245,
+                "width": 7000
+              },
+              "on": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/canvas/FL21662239"
+            }
+          ]
+        },
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/canvas/FL21662261",
+          "@type": "sc:Canvas",
+          "label": "Map 7",
+          "thumbnail": "https://rosetta.slv.vic.gov.au/delivery/DeliveryManagerServlet?dps_pid=FL21662261&dps_func=thumbnail",
+          "height": 5235,
+          "width": 7000,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/annotation/FL21662261",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/res/FL21662261.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE8819084:FL21662261.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 5235,
+                "width": 7000
+              },
+              "on": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/canvas/FL21662261"
+            }
+          ]
+        },
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/canvas/FL21662271",
+          "@type": "sc:Canvas",
+          "label": "Map 8",
+          "thumbnail": "https://rosetta.slv.vic.gov.au/delivery/DeliveryManagerServlet?dps_pid=FL21662271&dps_func=thumbnail",
+          "height": 5241,
+          "width": 7000,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/annotation/FL21662271",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/res/FL21662271.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE8819084:FL21662271.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 5241,
+                "width": 7000
+              },
+              "on": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/canvas/FL21662271"
+            }
+          ]
+        },
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/canvas/FL21662247",
+          "@type": "sc:Canvas",
+          "label": "Map 9",
+          "thumbnail": "https://rosetta.slv.vic.gov.au/delivery/DeliveryManagerServlet?dps_pid=FL21662247&dps_func=thumbnail",
+          "height": 5253,
+          "width": 7000,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/annotation/FL21662247",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/res/FL21662247.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE8819084:FL21662247.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 5253,
+                "width": 7000
+              },
+              "on": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/canvas/FL21662247"
+            }
+          ]
+        },
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/canvas/FL21662266",
+          "@type": "sc:Canvas",
+          "label": "Map 10",
+          "thumbnail": "https://rosetta.slv.vic.gov.au/delivery/DeliveryManagerServlet?dps_pid=FL21662266&dps_func=thumbnail",
+          "height": 5248,
+          "width": 7000,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/annotation/FL21662266",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/res/FL21662266.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE8819084:FL21662266.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 5248,
+                "width": 7000
+              },
+              "on": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/canvas/FL21662266"
+            }
+          ]
+        },
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/canvas/FL21662243",
+          "@type": "sc:Canvas",
+          "label": "Map 11",
+          "thumbnail": "https://rosetta.slv.vic.gov.au/delivery/DeliveryManagerServlet?dps_pid=FL21662243&dps_func=thumbnail",
+          "height": 5242,
+          "width": 7000,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/annotation/FL21662243",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/res/FL21662243.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE8819084:FL21662243.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 5242,
+                "width": 7000
+              },
+              "on": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/canvas/FL21662243"
+            }
+          ]
+        },
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/canvas/FL21662241",
+          "@type": "sc:Canvas",
+          "label": "Map 12",
+          "thumbnail": "https://rosetta.slv.vic.gov.au/delivery/DeliveryManagerServlet?dps_pid=FL21662241&dps_func=thumbnail",
+          "height": 4770,
+          "width": 7000,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/annotation/FL21662241",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/res/FL21662241.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE8819084:FL21662241.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 4770,
+                "width": 7000
+              },
+              "on": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/canvas/FL21662241"
+            }
+          ]
+        },
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/canvas/FL21662252",
+          "@type": "sc:Canvas",
+          "label": "Map 13",
+          "thumbnail": "https://rosetta.slv.vic.gov.au/delivery/DeliveryManagerServlet?dps_pid=FL21662252&dps_func=thumbnail",
+          "height": 5333,
+          "width": 7000,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/annotation/FL21662252",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/res/FL21662252.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE8819084:FL21662252.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 5333,
+                "width": 7000
+              },
+              "on": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/canvas/FL21662252"
+            }
+          ]
+        },
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/canvas/FL21662272",
+          "@type": "sc:Canvas",
+          "label": "Map 14",
+          "thumbnail": "https://rosetta.slv.vic.gov.au/delivery/DeliveryManagerServlet?dps_pid=FL21662272&dps_func=thumbnail",
+          "height": 5444,
+          "width": 7000,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/annotation/FL21662272",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/res/FL21662272.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE8819084:FL21662272.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 5444,
+                "width": 7000
+              },
+              "on": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/canvas/FL21662272"
+            }
+          ]
+        },
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/canvas/FL21662265",
+          "@type": "sc:Canvas",
+          "label": "Map 15",
+          "thumbnail": "https://rosetta.slv.vic.gov.au/delivery/DeliveryManagerServlet?dps_pid=FL21662265&dps_func=thumbnail",
+          "height": 5419,
+          "width": 7000,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/annotation/FL21662265",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/res/FL21662265.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE8819084:FL21662265.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 5419,
+                "width": 7000
+              },
+              "on": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/canvas/FL21662265"
+            }
+          ]
+        },
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/canvas/FL21662267",
+          "@type": "sc:Canvas",
+          "label": "Map 16",
+          "thumbnail": "https://rosetta.slv.vic.gov.au/delivery/DeliveryManagerServlet?dps_pid=FL21662267&dps_func=thumbnail",
+          "height": 5272,
+          "width": 7000,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/annotation/FL21662267",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/res/FL21662267.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE8819084:FL21662267.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 5272,
+                "width": 7000
+              },
+              "on": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/canvas/FL21662267"
+            }
+          ]
+        },
+        {
+          "@context": "http://iiif.io/api/presentation/2/context.json",
+          "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/canvas/FL21662237",
+          "@type": "sc:Canvas",
+          "label": "Map 17",
+          "thumbnail": "https://rosetta.slv.vic.gov.au/delivery/DeliveryManagerServlet?dps_pid=FL21662237&dps_func=thumbnail",
+          "height": 5209,
+          "width": 7000,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/annotation/FL21662237",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/res/FL21662237.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE8819084:FL21662237.jpg",
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                },
+                "height": 5209,
+                "width": 7000
+              },
+              "on": "https://rosetta.slv.vic.gov.au/delivery/iiif/presentation/2.1/IE8819084/canvas/FL21662237"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "structures": []
+}
