@@ -42,7 +42,7 @@
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE8819084:FL21662270.jpg",
+                  "@id": "https://rosetta.slv.vic.gov.au/iiif/2/IE8819084:FL21662270.jpg",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 },
                 "height": 5203,
@@ -72,7 +72,7 @@
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE8819084:FL21662258.jpg",
+                  "@id": "https://rosetta.slv.vic.gov.au/iiif/2/IE8819084:FL21662258.jpg",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 },
                 "height": 5351,
@@ -102,7 +102,7 @@
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE8819084:FL21662269.jpg",
+                  "@id": "https://rosetta.slv.vic.gov.au/iiif/2/IE8819084:FL21662269.jpg",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 },
                 "height": 5136,
@@ -132,7 +132,7 @@
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE8819084:FL21662255.jpg",
+                  "@id": "https://rosetta.slv.vic.gov.au/iiif/2/IE8819084:FL21662255.jpg",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 },
                 "height": 5342,
@@ -162,7 +162,7 @@
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE8819084:FL21662263.jpg",
+                  "@id": "https://rosetta.slv.vic.gov.au/iiif/2/IE8819084:FL21662263.jpg",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 },
                 "height": 5213,
@@ -192,7 +192,7 @@
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE8819084:FL21662275.jpg",
+                  "@id": "https://rosetta.slv.vic.gov.au/iiif/2/IE8819084:FL21662275.jpg",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 },
                 "height": 5232,
@@ -222,7 +222,7 @@
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE8819084:FL21662268.jpg",
+                  "@id": "https://rosetta.slv.vic.gov.au/iiif/2/IE8819084:FL21662268.jpg",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 },
                 "height": 5229,
@@ -252,7 +252,7 @@
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE8819084:FL21662239.jpg",
+                  "@id": "https://rosetta.slv.vic.gov.au/iiif/2/IE8819084:FL21662239.jpg",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 },
                 "height": 5245,
@@ -282,7 +282,7 @@
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE8819084:FL21662261.jpg",
+                  "@id": "https://rosetta.slv.vic.gov.au/iiif/2/IE8819084:FL21662261.jpg",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 },
                 "height": 5235,
@@ -312,7 +312,7 @@
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE8819084:FL21662271.jpg",
+                  "@id": "https://rosetta.slv.vic.gov.au/iiif/2/IE8819084:FL21662271.jpg",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 },
                 "height": 5241,
@@ -342,7 +342,7 @@
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE8819084:FL21662247.jpg",
+                  "@id": "https://rosetta.slv.vic.gov.au/iiif/2/IE8819084:FL21662247.jpg",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 },
                 "height": 5253,
@@ -372,7 +372,7 @@
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE8819084:FL21662266.jpg",
+                  "@id": "https://rosetta.slv.vic.gov.au/iiif/2/IE8819084:FL21662266.jpg",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 },
                 "height": 5248,
@@ -402,7 +402,7 @@
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE8819084:FL21662243.jpg",
+                  "@id": "https://rosetta.slv.vic.gov.au/iiif/2/IE8819084:FL21662243.jpg",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 },
                 "height": 5242,
@@ -432,7 +432,7 @@
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE8819084:FL21662241.jpg",
+                  "@id": "https://rosetta.slv.vic.gov.au/iiif/2/IE8819084:FL21662241.jpg",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 },
                 "height": 4770,
@@ -462,7 +462,7 @@
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE8819084:FL21662252.jpg",
+                  "@id": "https://rosetta.slv.vic.gov.au/iiif/2/IE8819084:FL21662252.jpg",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 },
                 "height": 5333,
@@ -492,7 +492,7 @@
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE8819084:FL21662272.jpg",
+                  "@id": "https://rosetta.slv.vic.gov.au/iiif/2/IE8819084:FL21662272.jpg",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 },
                 "height": 5444,
@@ -522,7 +522,7 @@
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE8819084:FL21662265.jpg",
+                  "@id": "https://rosetta.slv.vic.gov.au/iiif/2/IE8819084:FL21662265.jpg",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 },
                 "height": 5419,
@@ -552,7 +552,7 @@
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE8819084:FL21662267.jpg",
+                  "@id": "https://rosetta.slv.vic.gov.au/iiif/2/IE8819084:FL21662267.jpg",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 },
                 "height": 5272,
@@ -582,7 +582,7 @@
                 "format": "image/jpeg",
                 "service": {
                   "@context": "http://iiif.io/api/image/2/context.json",
-                  "@id": "https://rosetta.slv.vic.gov.au:2083/iiif/2/IE8819084:FL21662237.jpg",
+                  "@id": "https://rosetta.slv.vic.gov.au/iiif/2/IE8819084:FL21662237.jpg",
                   "profile": "http://iiif.io/api/image/2/level1.json"
                 },
                 "height": 5209,
